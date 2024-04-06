@@ -18,7 +18,7 @@ To write a program to perform selection sort and insertion sort using python pro
 4.	Break the loop and insert X.
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
-i)	## Selection Sort
+i)	 Selection Sort
 ```
 # Developed by: PRASHANTH.K
 # REGISTER NUMBER:212223230152
@@ -35,7 +35,7 @@ def selsort(Unsorted):
 print(selsort(Unsorted))
 
 ```
-ii)	## Insertion Sort
+ii)	 Insertion Sort
 ```
 # Developed by: PRASHANTH.K
 # REGISTER NUMBER:212223230152
@@ -53,13 +53,13 @@ print(Insertionsort(arr))
 ```
 
 ## Output:
-(i) ## Selection Sort:
+(i)  Selection Sort:
 
 ![Screenshot 2024-04-06 085703](https://github.com/PRASHANTHRATHI/Sorting-Algorithms/assets/145743120/91fbc8f1-ad27-43f3-be9d-068730c09a30)
 ![Screenshot 2024-04-06 085713](https://github.com/PRASHANTHRATHI/Sorting-Algorithms/assets/145743120/d9323787-d0e1-4736-81cb-30805fea9d25)
 
 
-(ii) ## Insertion Sort:
+(ii)  Insertion Sort:
 
 ![Screenshot 2024-04-06 085727](https://github.com/PRASHANTHRATHI/Sorting-Algorithms/assets/145743120/c7184e76-ce39-422b-926a-fcae740d6e95)
 ![Screenshot 2024-04-06 085734](https://github.com/PRASHANTHRATHI/Sorting-Algorithms/assets/145743120/c47e2047-728e-476c-9c3f-3ac367544074)
